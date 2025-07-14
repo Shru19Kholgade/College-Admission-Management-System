@@ -91,10 +91,8 @@ CREATE TABLE admission (
 
 Below is a screenshot of the working **College Admission Management System**:
 
-<img width="764" height="399" alt="image" src="https://github.com/user-attachments/assets/429157c9-e6cd-434a-b2b8-2b974f82d33c" />
+<img width="844" height="273" alt="image" src="https://github.com/user-attachments/assets/78d2bc62-abfd-4b9f-9ec0-7c130b680108" />
 
-
----
 
 ## Author
 
