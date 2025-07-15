@@ -96,10 +96,11 @@ Below is a screenshot of the working **College Admission Management System**:
 
 ## Author
 
-Name: Shruti Shivaji Kholgade
+Name: 1) Shruti Shivaji Kholgade
+      2) Avantika Dashrath Firange
 
-Email: shrutikholgade@gmail.com
-
+Email: 1) shrutikholgade@gmail.com
+       2) firangeavantika07@gmail.com
 GitHub: Shru19Kholgade
 
 
